@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-⏳ Year progress { ███████████████████████████▁▁▁ } 90.38 %
+⏳ Year progress { ███████████████████████████▁▁▁ } 90.50 %
 
 ---
 
-⏰ Updated on Thu, 26 Nov 2026 21:16:01 GMT
+⏰ Updated on Fri, 27 Nov 2026 07:50:23 GMT
 
 ![Progress Bar CI](https://github.com/ZhaoGui/ZhaoGui/workflows/Progress%20Bar%20CI/badge.svg)
